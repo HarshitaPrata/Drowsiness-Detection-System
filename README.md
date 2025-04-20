@@ -66,6 +66,19 @@ The dataset includes labeled eye-state images categorized as `open` or `closed`.
 
 ---
 
+## 📦 Dataset Download
+
+The dataset used in this project is large (~332MB) and cannot be stored directly in this GitHub repository.
+
+You can download it from Google Drive here:  
+👉 [Download Dataset (ZIP)](https://drive.google.com/file/d/1WCVGLm1nz7T3fljMAPYflUa0OIOi36yH/view?usp=sharing)
+
+### How to Use:
+1. Click the link above to download the dataset.
+2. Save the `dataset.zip` file to your system.
+3. Unzip it.
+4. Use the extracted files in your project (e.g., place them in a `training_data/` folder).
+
 ## 📌 Future Improvements
 
 - Real-time webcam drowsiness detection
